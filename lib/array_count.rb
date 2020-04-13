@@ -1,5 +1,5 @@
 def count_strings(array)
-array.count(Strings)
+array.count(str)
   
 end
 
